@@ -92,7 +92,7 @@ Your app will be available at: [http://localhost:3000](http://localhost:3000)
 
 ## 🖼️ Screenshots
 
-## <video src="src/assets/demo.mp4" controls width="600"></video>
+## <video src="src/assets/demo.mp4" alt="demo" controls width="600"></video>
 
 ## ☁️ Deployment
 
