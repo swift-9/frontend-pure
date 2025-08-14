@@ -96,6 +96,8 @@ Your app will be available at: [http://localhost:3000](http://localhost:3000)
 
 ## <div><img src="src/assets/gif.gif" alt="Screenshot" /></div>
 
+## Full : https://github.com/swift-9/frontend-pure/src/assets/demo.mp4
+
 ## ☁️ Deployment
 
 ### Deploy on Vercel
