@@ -84,8 +84,7 @@ git clone https://github.com/yourusername/game-website-clone.git
 cd game-website-clone
 npm install
 npm run dev
-
-
+```
 
 Your app will be available at: [http://localhost:5173](http://localhost:5173)
 
@@ -120,4 +119,7 @@ Your live website will be hosted on a custom subdomain (e.g. `https://your-name.
 ---
 
 Let me know if you'd like me to generate a version with your actual GitHub repo, YouTube URL, or a banner image suggestion!
+
+```
+
 ```
